@@ -1,24 +1,8 @@
-# montyhall
+# Projeto-Paradoxo de MontyHall-VueJs
+Projeto de estudo criando versão Web do problema de MontyHall usando VueJs
 
-## Project setup
-```
-yarn install
-```
+<img src="./MontyHallVueJs.gif" alt="Calculadora">
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<a href="https://pt.wikipedia.org/wiki/Problema_de_Monty_Hall" target="_blank">Clique Para saber mais sobre o Paradoxo de MontyHall</a>
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto criado como parte dos estudos de VueJs no curso: <a href="https://www.udemy.com/course/curso-web/" target="blank">Web Moderno com JavaScript 2020</a>
